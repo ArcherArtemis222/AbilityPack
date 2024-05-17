@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "StickUse": {
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "items": ["minecraft:potion"],
+                    "potion": "minecraft:water",
+                    "nbt": "{tag:1b}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "version1:abilities/ability_activation"
+    }
+}
