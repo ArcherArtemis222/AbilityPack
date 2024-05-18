@@ -1,0 +1,2 @@
+function ability_trigger:system_trigger/potion
+function ability_trigger:system_trigger/debug_cd_end
