@@ -1,1 +1,0 @@
-item replace entity @s weapon.mainhand with potion{CustomPotionEffects : [{Id:10b, Amplifier:2, Duration:100 , ShowParticles:0b}], Potion:"water", tag:1b}

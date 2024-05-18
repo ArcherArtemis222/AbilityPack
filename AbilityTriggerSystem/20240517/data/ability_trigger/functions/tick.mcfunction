@@ -1,1 +1,0 @@
-function ability_trigger:system_trigger/cd_recover

@@ -1,1 +1,0 @@
-tellraw @a [{"text" : "技能冷卻結束 " , "color" : "green"}]
